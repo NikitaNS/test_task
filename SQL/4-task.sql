@@ -1,0 +1,2 @@
+INSERT INTO DEPARTMENT (ID, NAME)
+VALUES(9, 'mathematics')
